@@ -1,0 +1,3 @@
+[submodule "PromptCraft-Robotics"]
+	path = PromptCraft-Robotics
+	url = https://github.com/microsoft/PromptCraft-Robotics.git
